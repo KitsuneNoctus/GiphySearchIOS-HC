@@ -14,6 +14,7 @@
 		3F60F5B824359D180007D4B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F60F5B724359D180007D4B4 /* Assets.xcassets */; };
 		3F60F5BB24359D180007D4B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F60F5B924359D180007D4B4 /* LaunchScreen.storyboard */; };
 		3F60F5C324359EA00007D4B4 /* GifExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60F5C224359EA00007D4B4 /* GifExtension.swift */; };
+		3F60F5C52435A0E00007D4B4 /* GifCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60F5C42435A0E00007D4B4 /* GifCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3F60F5BA24359D180007D4B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F60F5BC24359D180007D4B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F60F5C224359EA00007D4B4 /* GifExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GifExtension.swift; sourceTree = "<group>"; };
+		3F60F5C42435A0E00007D4B4 /* GifCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				3F60F5AE24359D110007D4B4 /* AppDelegate.swift */,
 				3F60F5B024359D110007D4B4 /* SceneDelegate.swift */,
 				3F60F5B224359D110007D4B4 /* ViewController.swift */,
+				3F60F5C42435A0E00007D4B4 /* GifCell.swift */,
 				3F60F5B424359D110007D4B4 /* Main.storyboard */,
 				3F60F5B724359D180007D4B4 /* Assets.xcassets */,
 				3F60F5B924359D180007D4B4 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				3F60F5C324359EA00007D4B4 /* GifExtension.swift in Sources */,
 				3F60F5B324359D110007D4B4 /* ViewController.swift in Sources */,
+				3F60F5C52435A0E00007D4B4 /* GifCell.swift in Sources */,
 				3F60F5AF24359D110007D4B4 /* AppDelegate.swift in Sources */,
 				3F60F5B124359D110007D4B4 /* SceneDelegate.swift in Sources */,
 			);
