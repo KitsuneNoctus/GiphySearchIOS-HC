@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F3B3E902436E7D900375BBA /* GifNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3B3E8F2436E7D900375BBA /* GifNetwork.swift */; };
+		3F3B3E922436EE1C00375BBA /* Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3B3E912436EE1C00375BBA /* Gif.swift */; };
 		3F60F5AF24359D110007D4B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60F5AE24359D110007D4B4 /* AppDelegate.swift */; };
 		3F60F5B124359D110007D4B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60F5B024359D110007D4B4 /* SceneDelegate.swift */; };
 		3F60F5B324359D110007D4B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F60F5B224359D110007D4B4 /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F3B3E8F2436E7D900375BBA /* GifNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifNetwork.swift; sourceTree = "<group>"; };
+		3F3B3E912436EE1C00375BBA /* Gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gif.swift; sourceTree = "<group>"; };
 		3F60F5AB24359D110007D4B4 /* GiphySearchIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GiphySearchIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F60F5AE24359D110007D4B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F60F5B024359D110007D4B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,8 +67,10 @@
 				3F60F5AE24359D110007D4B4 /* AppDelegate.swift */,
 				3F60F5B024359D110007D4B4 /* SceneDelegate.swift */,
 				3F60F5B224359D110007D4B4 /* ViewController.swift */,
+				3F3B3E912436EE1C00375BBA /* Gif.swift */,
 				3F60F5C42435A0E00007D4B4 /* GifCell.swift */,
 				3F60F5B424359D110007D4B4 /* Main.storyboard */,
+				3F3B3E8F2436E7D900375BBA /* GifNetwork.swift */,
 				3F60F5B724359D180007D4B4 /* Assets.xcassets */,
 				3F60F5B924359D180007D4B4 /* LaunchScreen.storyboard */,
 				3F60F5BC24359D180007D4B4 /* Info.plist */,
@@ -149,6 +155,8 @@
 				3F60F5C52435A0E00007D4B4 /* GifCell.swift in Sources */,
 				3F60F5AF24359D110007D4B4 /* AppDelegate.swift in Sources */,
 				3F60F5B124359D110007D4B4 /* SceneDelegate.swift in Sources */,
+				3F3B3E922436EE1C00375BBA /* Gif.swift in Sources */,
+				3F3B3E902436E7D900375BBA /* GifNetwork.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
